@@ -54,3 +54,9 @@ p {
     a {
         color: gray;
     }
+
+section {
+        display: inline-block;
+        margin: 4%;
+        width: 40%;
+    }
