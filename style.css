@@ -6,6 +6,8 @@ body {
 
 .date {
     text-align: left;
+    color : rgb(112, 112, 112);
+    letter-spacing: -2px;
     }
 
 nav ul{
@@ -48,17 +50,22 @@ img {
     box-align: left;
     }
 
+main {
+    border-bottom: 1px solid rgb(224, 223, 223);
+    }
+
 p {
     font-family:Arial, Helvetica, sans-serif;
     text-align: left;
+    color: rgb(131, 130, 130);
     }
 
-    a {
-        color: rgb(221, 219, 219);
+a {
+    color: rgb(131, 130, 130);
     }
 
 section {
-        display: inline-block;
-        margin: 4%;
-        width: 40%;
+    display: inline-block;
+    margin: 4%;
+    width: 40%;
     }
