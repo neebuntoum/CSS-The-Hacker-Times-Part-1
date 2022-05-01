@@ -12,6 +12,8 @@ nav ul{
     list-style-type: none;
     margin: 0;
     padding: 10px;
+    border-top: 1px solid rgb(224, 223, 223);
+    border-bottom: 1px solid rgb(224, 223, 223);
     }
 
 nav li {
@@ -52,7 +54,7 @@ p {
     }
 
     a {
-        color: gray;
+        color: rgb(221, 219, 219);
     }
 
 section {
