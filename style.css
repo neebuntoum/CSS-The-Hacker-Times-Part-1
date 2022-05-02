@@ -1,7 +1,8 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500& */
 body {
     margin: 2% 5% 2% 5%;
-    text-align: center;
+    text-align: justify;
+    justify-content: center;
     }
 
 .date {
@@ -25,6 +26,7 @@ nav li {
     }
 
 h1 {
+    text-align: center;
     font-size: -webkit-xxx-large;
     font-family: Abril-Fatface;
     font-weight: 400;
