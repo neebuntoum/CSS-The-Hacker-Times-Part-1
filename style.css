@@ -1,9 +1,12 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500& */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&');
+
 body {
     margin: 2% 5% 2% 5%;
     text-align: justify;
     justify-content: center;
-    }
+}
+    
+    
 
 .date {
     /* text-align: left; */
