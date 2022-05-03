@@ -31,6 +31,7 @@ nav li {
     display: inline;
     margin: 15px;
     text-align: center;
+    font-family: sans-serif;
     }
 
 nav {
@@ -49,6 +50,7 @@ h1 {
     text-shadow: -1px 1px, 1px 1px, 1px 1px;
     letter-spacing: -3px;
     font-stretch: extra-condensed;
+    color: #282b28;
 }
 
 h2 {
@@ -96,6 +98,8 @@ section {
     margin: 4%;
     width: 40%;
     }
+
+
 /* .newspaper-container {
     border-radius: 50px/50px;
     border: 10px solid #e0dfdf;
